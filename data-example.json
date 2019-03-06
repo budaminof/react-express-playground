@@ -1,0 +1,627 @@
+[
+  {
+    "date": "Wednesday Mar 06 2019",
+    "day": "Wed",
+    "gmt": "2019-3-6 8",
+    "hour": "12AM",
+    "latitude": 34.141570447971461,
+    "live": 0,
+    "longitude": -119.1966011225911,
+    "shape": "pf",
+    "shape_detail": {
+      "swell": "Poor-Fair",
+      "tide": "Poor-Fair",
+      "wind": "Poor-Fair"
+    },
+    "shape_full": "Poor-Fair",
+    "size": 2,
+    "size_ft": 1.7327586233234484,
+    "spot_id": 718,
+    "spot_name": "Port Hueneme Beach Park",
+    "warnings": [
+      "swell",
+      "wind",
+      "tide"
+    ]
+  },
+  {
+    "date": "Wednesday Mar 06 2019",
+    "day": "Wed",
+    "gmt": "2019-3-6 9",
+    "hour": "1AM",
+    "latitude": 34.141570447971461,
+    "live": 0,
+    "longitude": -119.1966011225911,
+    "shape": "pf",
+    "shape_detail": {
+      "swell": "Poor-Fair",
+      "tide": "Poor-Fair",
+      "wind": "Poor-Fair"
+    },
+    "shape_full": "Poor-Fair",
+    "size": 2,
+    "size_ft": 2.017241382376552,
+    "spot_id": 718,
+    "spot_name": "Port Hueneme Beach Park",
+    "warnings": [
+      "swell",
+      "wind",
+      "tide"
+    ]
+  },
+  {
+    "date": "Wednesday Mar 06 2019",
+    "day": "Wed",
+    "gmt": "2019-3-6 10",
+    "hour": "2AM",
+    "latitude": 34.141570447971461,
+    "live": 0,
+    "longitude": -119.1966011225911,
+    "shape": "pf",
+    "shape_detail": {
+      "swell": "Poor-Fair",
+      "tide": "Poor-Fair",
+      "wind": "Poor-Fair"
+    },
+    "shape_full": "Poor-Fair",
+    "size": 2,
+    "size_ft": 2.3017241414296556,
+    "spot_id": 718,
+    "spot_name": "Port Hueneme Beach Park",
+    "warnings": [
+      "swell",
+      "wind",
+      "tide"
+    ]
+  },
+  {
+    "date": "Wednesday Mar 06 2019",
+    "day": "Wed",
+    "gmt": "2019-3-6 11",
+    "hour": "3AM",
+    "latitude": 34.141570447971461,
+    "live": 0,
+    "longitude": -119.1966011225911,
+    "shape": "pf",
+    "shape_detail": {
+      "swell": "Poor-Fair",
+      "tide": "Poor-Fair",
+      "wind": "Poor-Fair"
+    },
+    "shape_full": "Poor-Fair",
+    "size": 3,
+    "size_ft": 2.5086206934682762,
+    "spot_id": 718,
+    "spot_name": "Port Hueneme Beach Park",
+    "warnings": [
+      "swell",
+      "wind",
+      "tide"
+    ]
+  },
+  {
+    "date": "Wednesday Mar 06 2019",
+    "day": "Wed",
+    "gmt": "2019-3-6 12",
+    "hour": "4AM",
+    "latitude": 34.141570447971461,
+    "live": 0,
+    "longitude": -119.1966011225911,
+    "shape": "pf",
+    "shape_detail": {
+      "swell": "Poor-Fair",
+      "tide": "Poor-Fair",
+      "wind": "Poor-Fair"
+    },
+    "shape_full": "Poor-Fair",
+    "size": 3,
+    "size_ft": 2.7672413835165521,
+    "spot_id": 718,
+    "spot_name": "Port Hueneme Beach Park",
+    "warnings": [
+      "swell",
+      "wind",
+      "tide"
+    ]
+  },
+  {
+    "date": "Wednesday Mar 06 2019",
+    "day": "Wed",
+    "gmt": "2019-3-6 13",
+    "hour": "5AM",
+    "latitude": 34.141570447971461,
+    "live": 0,
+    "longitude": -119.1966011225911,
+    "shape": "pf",
+    "shape_detail": {
+      "swell": "Poor-Fair",
+      "tide": "Poor-Fair",
+      "wind": "Poor-Fair"
+    },
+    "shape_full": "Poor-Fair",
+    "size": 3,
+    "size_ft": 2.7931034525213803,
+    "spot_id": 718,
+    "spot_name": "Port Hueneme Beach Park",
+    "warnings": [
+      "swell",
+      "wind",
+      "tide"
+    ]
+  },
+  {
+    "date": "Wednesday Mar 06 2019",
+    "day": "Wed",
+    "gmt": "2019-3-6 14",
+    "hour": "6AM",
+    "latitude": 34.141570447971461,
+    "live": 0,
+    "longitude": -119.1966011225911,
+    "shape": "pf",
+    "shape_detail": {
+      "swell": "Poor-Fair",
+      "tide": "Poor-Fair",
+      "wind": "Poor-Fair"
+    },
+    "shape_full": "Poor-Fair",
+    "size": 3,
+    "size_ft": 2.7931034525213803,
+    "spot_id": 718,
+    "spot_name": "Port Hueneme Beach Park",
+    "warnings": [
+      "swell",
+      "wind",
+      "tide"
+    ]
+  },
+  {
+    "date": "Wednesday Mar 06 2019",
+    "day": "Wed",
+    "gmt": "2019-3-6 15",
+    "hour": "7AM",
+    "latitude": 34.141570447971461,
+    "live": 0,
+    "longitude": -119.1966011225911,
+    "shape": "pf",
+    "shape_detail": {
+      "swell": "Poor-Fair",
+      "tide": "Poor-Fair",
+      "wind": "Poor-Fair"
+    },
+    "shape_full": "Poor-Fair",
+    "size": 4,
+    "size_ft": 4.3189655238062068,
+    "spot_id": 718,
+    "spot_name": "Port Hueneme Beach Park",
+    "warnings": [
+      "swell",
+      "wind",
+      "tide"
+    ]
+  },
+  {
+    "date": "Wednesday Mar 06 2019",
+    "day": "Wed",
+    "gmt": "2019-3-6 16",
+    "hour": "8AM",
+    "latitude": 34.141570447971461,
+    "live": 0,
+    "longitude": -119.1966011225911,
+    "shape": "pf",
+    "shape_detail": {
+      "swell": "Poor-Fair",
+      "tide": "Poor-Fair",
+      "wind": "Poor-Fair"
+    },
+    "shape_full": "Poor-Fair",
+    "size": 5,
+    "size_ft": 4.5517241448496559,
+    "spot_id": 718,
+    "spot_name": "Port Hueneme Beach Park",
+    "warnings": [
+      "swell",
+      "wind",
+      "tide"
+    ]
+  },
+  {
+    "date": "Wednesday Mar 06 2019",
+    "day": "Wed",
+    "gmt": "2019-3-6 17",
+    "hour": "9AM",
+    "latitude": 34.141570447971461,
+    "live": 0,
+    "longitude": -119.1966011225911,
+    "shape": "pf",
+    "shape_detail": {
+      "swell": "Poor-Fair",
+      "tide": "Poor-Fair",
+      "wind": "Poor-Fair"
+    },
+    "shape_full": "Poor-Fair",
+    "size": 4,
+    "size_ft": 4.1379310407724148,
+    "spot_id": 718,
+    "spot_name": "Port Hueneme Beach Park",
+    "warnings": [
+      "swell",
+      "wind",
+      "tide"
+    ]
+  },
+  {
+    "date": "Wednesday Mar 06 2019",
+    "day": "Wed",
+    "gmt": "2019-3-6 18",
+    "hour": "10AM",
+    "latitude": 34.141570447971461,
+    "live": 0,
+    "longitude": -119.1966011225911,
+    "shape": "pf",
+    "shape_detail": {
+      "swell": "Poor-Fair",
+      "tide": "Poor-Fair",
+      "wind": "Poor-Fair"
+    },
+    "shape_full": "Poor-Fair",
+    "size": 4,
+    "size_ft": 4.215517247786897,
+    "spot_id": 718,
+    "spot_name": "Port Hueneme Beach Park",
+    "warnings": [
+      "swell",
+      "wind",
+      "tide"
+    ]
+  },
+  {
+    "date": "Wednesday Mar 06 2019",
+    "day": "Wed",
+    "gmt": "2019-3-6 19",
+    "hour": "11AM",
+    "latitude": 34.141570447971461,
+    "live": 0,
+    "longitude": -119.1966011225911,
+    "shape": "pf",
+    "shape_detail": {
+      "swell": "Poor-Fair",
+      "tide": "Poor-Fair",
+      "wind": "Poor-Fair"
+    },
+    "shape_full": "Poor-Fair",
+    "size": 5,
+    "size_ft": 4.6551724208689667,
+    "spot_id": 718,
+    "spot_name": "Port Hueneme Beach Park",
+    "warnings": [
+      "swell",
+      "wind",
+      "tide"
+    ]
+  },
+  {
+    "date": "Wednesday Mar 06 2019",
+    "day": "Wed",
+    "gmt": "2019-3-6 20",
+    "hour": "12PM",
+    "latitude": 34.141570447971461,
+    "live": 0,
+    "longitude": -119.1966011225911,
+    "shape": "pf",
+    "shape_detail": {
+      "swell": "Poor-Fair",
+      "tide": "Poor-Fair",
+      "wind": "Poor-Fair"
+    },
+    "shape_full": "Poor-Fair",
+    "size": 4,
+    "size_ft": 4.1637931097772425,
+    "spot_id": 718,
+    "spot_name": "Port Hueneme Beach Park",
+    "warnings": [
+      "swell",
+      "wind",
+      "tide"
+    ]
+  },
+  {
+    "date": "Wednesday Mar 06 2019",
+    "day": "Wed",
+    "gmt": "2019-3-6 21",
+    "hour": "1PM",
+    "latitude": 34.141570447971461,
+    "live": 0,
+    "longitude": -119.1966011225911,
+    "shape": "pf",
+    "shape_detail": {
+      "swell": "Poor-Fair",
+      "tide": "Poor-Fair",
+      "wind": "Poor-Fair"
+    },
+    "shape_full": "Poor-Fair",
+    "size": 4,
+    "size_ft": 4.0862069027627594,
+    "spot_id": 718,
+    "spot_name": "Port Hueneme Beach Park",
+    "warnings": [
+      "swell",
+      "wind",
+      "tide"
+    ]
+  },
+  {
+    "date": "Wednesday Mar 06 2019",
+    "day": "Wed",
+    "gmt": "2019-3-6 22",
+    "hour": "2PM",
+    "latitude": 34.141570447971461,
+    "live": 0,
+    "longitude": -119.1966011225911,
+    "shape": "pf",
+    "shape_detail": {
+      "swell": "Poor-Fair",
+      "tide": "Poor-Fair",
+      "wind": "Poor-Fair"
+    },
+    "shape_full": "Poor-Fair",
+    "size": 4,
+    "size_ft": 4.0086206957482773,
+    "spot_id": 718,
+    "spot_name": "Port Hueneme Beach Park",
+    "warnings": [
+      "swell",
+      "wind",
+      "tide"
+    ]
+  },
+  {
+    "date": "Wednesday Mar 06 2019",
+    "day": "Wed",
+    "gmt": "2019-3-6 23",
+    "hour": "3PM",
+    "latitude": 34.141570447971461,
+    "live": 0,
+    "longitude": -119.1966011225911,
+    "shape": "pf",
+    "shape_detail": {
+      "swell": "Poor-Fair",
+      "tide": "Poor-Fair",
+      "wind": "Poor-Fair"
+    },
+    "shape_full": "Poor-Fair",
+    "size": 4,
+    "size_ft": 3.9568965577386215,
+    "spot_id": 718,
+    "spot_name": "Port Hueneme Beach Park",
+    "warnings": [
+      "swell",
+      "wind",
+      "tide"
+    ]
+  },
+  {
+    "date": "Wednesday Mar 06 2019",
+    "day": "Wed",
+    "gmt": "2019-3-7 0",
+    "hour": "4PM",
+    "latitude": 34.141570447971461,
+    "live": 0,
+    "longitude": -119.1966011225911,
+    "shape": "pf",
+    "shape_detail": {
+      "swell": "Poor-Fair",
+      "tide": "Poor-Fair",
+      "wind": "Poor-Fair"
+    },
+    "shape_full": "Poor-Fair",
+    "size": 4,
+    "size_ft": 3.8534482817193108,
+    "spot_id": 718,
+    "spot_name": "Port Hueneme Beach Park",
+    "warnings": [
+      "swell",
+      "wind",
+      "tide"
+    ]
+  },
+  {
+    "date": "Wednesday Mar 06 2019",
+    "day": "Wed",
+    "gmt": "2019-3-7 1",
+    "hour": "5PM",
+    "latitude": 34.141570447971461,
+    "live": 0,
+    "longitude": -119.1966011225911,
+    "shape": "pf",
+    "shape_detail": {
+      "swell": "Poor-Fair",
+      "tide": "Poor-Fair",
+      "wind": "Poor-Fair"
+    },
+    "shape_full": "Poor-Fair",
+    "size": 4,
+    "size_ft": 3.8017241437096554,
+    "spot_id": 718,
+    "spot_name": "Port Hueneme Beach Park",
+    "warnings": [
+      "swell",
+      "wind",
+      "tide"
+    ]
+  },
+  {
+    "date": "Wednesday Mar 06 2019",
+    "day": "Wed",
+    "gmt": "2019-3-7 2",
+    "hour": "6PM",
+    "latitude": 34.141570447971461,
+    "live": 0,
+    "longitude": -119.1966011225911,
+    "shape": "pf",
+    "shape_detail": {
+      "swell": "Poor-Fair",
+      "tide": "Poor-Fair",
+      "wind": "Poor-Fair"
+    },
+    "shape_full": "Poor-Fair",
+    "size": 4,
+    "size_ft": 3.8017241437096554,
+    "spot_id": 718,
+    "spot_name": "Port Hueneme Beach Park",
+    "warnings": [
+      "swell",
+      "wind",
+      "tide"
+    ]
+  },
+  {
+    "date": "Wednesday Mar 06 2019",
+    "day": "Wed",
+    "gmt": "2019-3-7 3",
+    "hour": "7PM",
+    "latitude": 34.141570447971461,
+    "live": 0,
+    "longitude": -119.1966011225911,
+    "shape": "pf",
+    "shape_detail": {
+      "swell": "Poor-Fair",
+      "tide": "Poor-Fair",
+      "wind": "Poor-Fair"
+    },
+    "shape_full": "Poor-Fair",
+    "size": 4,
+    "size_ft": 3.8017241437096554,
+    "spot_id": 718,
+    "spot_name": "Port Hueneme Beach Park",
+    "warnings": [
+      "swell",
+      "wind",
+      "tide"
+    ]
+  },
+  {
+    "date": "Wednesday Mar 06 2019",
+    "day": "Wed",
+    "gmt": "2019-3-7 4",
+    "hour": "8PM",
+    "latitude": 34.141570447971461,
+    "live": 0,
+    "longitude": -119.1966011225911,
+    "shape": "pf",
+    "shape_detail": {
+      "swell": "Poor-Fair",
+      "tide": "Poor-Fair",
+      "wind": "Poor-Fair"
+    },
+    "shape_full": "Poor-Fair",
+    "size": 4,
+    "size_ft": 3.8275862127144835,
+    "spot_id": 718,
+    "spot_name": "Port Hueneme Beach Park",
+    "warnings": [
+      "swell",
+      "wind",
+      "tide"
+    ]
+  },
+  {
+    "date": "Wednesday Mar 06 2019",
+    "day": "Wed",
+    "gmt": "2019-3-7 5",
+    "hour": "9PM",
+    "latitude": 34.141570447971461,
+    "live": 0,
+    "longitude": -119.1966011225911,
+    "shape": "pf",
+    "shape_detail": {
+      "swell": "Poor-Fair",
+      "tide": "Poor-Fair",
+      "wind": "Poor-Fair"
+    },
+    "shape_full": "Poor-Fair",
+    "size": 4,
+    "size_ft": 4.1379310407724148,
+    "spot_id": 718,
+    "spot_name": "Port Hueneme Beach Park",
+    "warnings": [
+      "swell",
+      "wind",
+      "tide"
+    ]
+  },
+  {
+    "date": "Wednesday Mar 06 2019",
+    "day": "Wed",
+    "gmt": "2019-3-7 6",
+    "hour": "10PM",
+    "latitude": 34.141570447971461,
+    "live": 0,
+    "longitude": -119.1966011225911,
+    "shape": "pf",
+    "shape_detail": {
+      "swell": "Poor-Fair",
+      "tide": "Poor-Fair",
+      "wind": "Poor-Fair"
+    },
+    "shape_full": "Poor-Fair",
+    "size": 4,
+    "size_ft": 3.9827586267434487,
+    "spot_id": 718,
+    "spot_name": "Port Hueneme Beach Park",
+    "warnings": [
+      "swell",
+      "wind",
+      "tide"
+    ]
+  },
+  {
+    "date": "Wednesday Mar 06 2019",
+    "day": "Wed",
+    "gmt": "2019-3-7 7",
+    "hour": "11PM",
+    "latitude": 34.141570447971461,
+    "live": 0,
+    "longitude": -119.1966011225911,
+    "shape": "pf",
+    "shape_detail": {
+      "swell": "Poor-Fair",
+      "tide": "Poor-Fair",
+      "wind": "Poor-Fair"
+    },
+    "shape_full": "Poor-Fair",
+    "size": 5,
+    "size_ft": 4.7327586278834497,
+    "spot_id": 718,
+    "spot_name": "Port Hueneme Beach Park",
+    "warnings": [
+      "swell",
+      "wind",
+      "tide"
+    ]
+  },
+  {
+    "date": "Thursday Mar 07 2019",
+    "day": "Thu",
+    "gmt": "2019-3-7 8",
+    "hour": "12AM",
+    "latitude": 34.141570447971461,
+    "live": 0,
+    "longitude": -119.1966011225911,
+    "shape": "pf",
+    "shape_detail": {
+      "swell": "Poor-Fair",
+      "tide": "Poor-Fair",
+      "wind": "Poor-Fair"
+    },
+    "shape_full": "Poor-Fair",
+    "size": 5,
+    "size_ft": 4.8103448348979319,
+    "spot_id": 718,
+    "spot_name": "Port Hueneme Beach Park",
+    "warnings": [
+      "swell",
+      "wind",
+      "tide"
+    ]
+  }
+]
