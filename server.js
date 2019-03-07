@@ -7,8 +7,6 @@ const data = require('./data-example.json');
 require('dotenv').config();
 
 app.get('/api/forecast', (req, res, next) => {
-  console.log("EXPRESS GOT HERE");
-  console.log(data);
   res.send(data);
 })
 
